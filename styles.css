@@ -1,0 +1,24 @@
+.post{
+    margin:auto;
+    width:40%;
+}
+.img-pic{
+    height: 100%;
+    width: 100%;
+}
+.nav-link.active{
+    color:blue !important;
+}
+.img-thumbnail{
+    object-fit: cover;
+    width: 450px;
+    height: 350px;
+    border:none;
+    border-radius: 0px;
+}
+.col-4{
+    padding:0%;
+}
+.Logout{
+    color:red;
+}
